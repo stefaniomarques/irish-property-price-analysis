@@ -1,0 +1,7 @@
+# Raw data — not versioned, see data/README.md for how to get it
+*.csv
+!data/*.md
+
+# OS
+.DS_Store
+Thumbs.db
